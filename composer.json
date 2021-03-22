@@ -9,5 +9,10 @@
             "email": "qazs0205@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "libraries"
+        ]
+    }
 }
