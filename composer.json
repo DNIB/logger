@@ -1,0 +1,13 @@
+{
+    "name": "cyan.tseng/logger",
+    "description": "Used to solve exam",
+    "type": "project",
+    "license": "qazs0205@gmail.com",
+    "authors": [
+        {
+            "name": "dnib",
+            "email": "qazs0205@gmail.com"
+        }
+    ],
+    "require": {}
+}
