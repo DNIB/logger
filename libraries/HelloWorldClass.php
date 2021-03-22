@@ -1,4 +1,5 @@
 <?php
+// Used to test
 
 namespace snic104\logger\main;
 

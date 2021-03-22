@@ -2,8 +2,15 @@
 
 namespace Psr\Log;
 
+/**
+ * 使用內有的函數來輸出考試要求的部分
+ */
 class LoggerInterface
 {
+    /**
+     * 備用方案
+     * 當時間不足以完成其他函式時，使用此函式來滿足題目要求
+     */
     public function __construct()
     {
         
