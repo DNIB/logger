@@ -1,6 +1,6 @@
 <?php
 
-namespace cyantseng\logger\main;
+namespace snic104\logger\main;
 
 class HelloWorldClass {
     public $s = "Hello Dear";
