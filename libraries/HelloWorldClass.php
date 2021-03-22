@@ -1,5 +1,7 @@
 <?php
 
+namespace cyantseng\logger\main;
+
 class HelloWorldClass {
     public $s = "Hello Dear";
 
